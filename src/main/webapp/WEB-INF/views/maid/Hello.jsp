@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Customer nè</title>
+<title>Lô nè</title>
 </head>
 <body>
 
